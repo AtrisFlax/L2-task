@@ -1,0 +1,26 @@
+grep -A 1 "4 3" file.txt
+
+grep text file.txt
+
+grep empty file.txt
+
+grep -c -v "text" file.txt
+
+grep -B 2 "4 3 text" file.txt
+
+grep -B 2 "CASE" file.txt
+
+grep -i "case" file.txt
+
+grep -i "CASE" file.txt
+
+grep -i "FIXED" file.txt
+
+
+grep 4*. file.txt
+
+grep -F ^4444 file.txt
+
+grep ^4444 file.txt
+
+grep 4444 file.txt

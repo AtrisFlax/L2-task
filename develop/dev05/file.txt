@@ -1,0 +1,10 @@
+4444 3 text\d
+4{3,}3 text\d
+4 3 go
+2 1 text
+3 2 go
+1 4 text
+4 3 text
+text 4
+4 3 IGNORE CASE TEXT
+aaa ^4444
